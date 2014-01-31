@@ -18,4 +18,3 @@ $('#foo').o_O('blue');
 $('#foo').o_O('black').on('click', function() { ... })
 // #foo gets a semi-transparent black outline, then binds the event
 ```
-```
