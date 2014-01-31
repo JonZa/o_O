@@ -1,4 +1,4 @@
-**o_O(bar,fly)**;
+**o_O(colour)**;
 ============
 
 Marginally useful jQuery development plugin. Outlines a jQuery object, then returns the jQuery object for chainability
