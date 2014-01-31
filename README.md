@@ -12,9 +12,9 @@ $('#foo').o_O();
 ```
 ```
 $('#foo').o_O('blue');
-// #foo gets a semi-transparent blue outline
+// #foo gets a blue outline
 ```
 ```
 $('#foo').o_O('black').on('click', function() { ... })
-// #foo gets a semi-transparent black outline, then binds the event
+// #foo gets a black outline, then binds the event
 ```
